@@ -10,6 +10,6 @@ mkvirtualenv apartment-search -p python3 -r requirements.txt -a `pwd`
 
 ```
 workon apartment-search
-source .env
+source activate.sh
 make
 ```

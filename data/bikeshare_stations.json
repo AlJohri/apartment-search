@@ -1,0 +1,5572 @@
+{
+  "last_updated": 1478879570,
+  "ttl": 10,
+  "data": {
+    "stations": [
+      {
+        "station_id": "1",
+        "name": "Eads St & 15th St S",
+        "short_name": "31000",
+        "lat": 38.858971,
+        "lon": -77.05323,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "2",
+        "name": "18th & Eads St.",
+        "short_name": "31001",
+        "lat": 38.85725,
+        "lon": -77.05332,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "3",
+        "name": "20th & Crystal Dr",
+        "short_name": "31002",
+        "lat": 38.856425,
+        "lon": -77.049232,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 17,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "4",
+        "name": "15th & Crystal Dr",
+        "short_name": "31003",
+        "lat": 38.86017,
+        "lon": -77.049593,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "5",
+        "name": "Aurora Hills Community Ctr/18th & Hayes St",
+        "short_name": "31004",
+        "lat": 38.857866,
+        "lon": -77.05949,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "6",
+        "name": "Pentagon City Metro / 12th & S Hayes St",
+        "short_name": "31005",
+        "lat": 38.862303,
+        "lon": -77.059936,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "7",
+        "name": "S Joyce & Army Navy Dr",
+        "short_name": "31006",
+        "lat": 38.8637,
+        "lon": -77.0633,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "8",
+        "name": "Crystal City Metro / 18th & Bell St",
+        "short_name": "31007",
+        "lat": 38.857063,
+        "lon": -77.051141,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "9",
+        "name": "12th & Army Navy Dr",
+        "short_name": "31008",
+        "lat": 38.8629,
+        "lon": -77.0528,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "10",
+        "name": "27th & Crystal Dr",
+        "short_name": "31009",
+        "lat": 38.848441,
+        "lon": -77.051516,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "11",
+        "name": "S Glebe & Potomac Ave",
+        "short_name": "31010",
+        "lat": 38.8426,
+        "lon": -77.0502,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "12",
+        "name": "23rd & Crystal Dr",
+        "short_name": "31011",
+        "lat": 38.8533,
+        "lon": -77.0498,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 17,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "13",
+        "name": "26th & S Clark St",
+        "short_name": "31012",
+        "lat": 38.850688,
+        "lon": -77.05152,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "14",
+        "name": "19th St & Pennsylvania Ave NW",
+        "short_name": "31100",
+        "lat": 38.9003,
+        "lon": -77.0429,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "15",
+        "name": "14th & V St NW",
+        "short_name": "31101",
+        "lat": 38.9176,
+        "lon": -77.0321,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "16",
+        "name": "11th & Kenyon St NW",
+        "short_name": "31102",
+        "lat": 38.929464,
+        "lon": -77.027822,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "17",
+        "name": "16th & Harvard St NW",
+        "short_name": "31103",
+        "lat": 38.926088,
+        "lon": -77.036536,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 33,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "18",
+        "name": "Adams Mill & Columbia Rd NW",
+        "short_name": "31104",
+        "lat": 38.922925,
+        "lon": -77.042581,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "19",
+        "name": "14th & Harvard St NW",
+        "short_name": "31105",
+        "lat": 38.9268,
+        "lon": -77.0322,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "20",
+        "name": "Calvert & Biltmore St NW",
+        "short_name": "31106",
+        "lat": 38.923203,
+        "lon": -77.047637,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "21",
+        "name": "Lamont & Mt Pleasant NW",
+        "short_name": "31107",
+        "lat": 38.9319,
+        "lon": -77.0388,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "22",
+        "name": "4th & M St SW",
+        "short_name": "31108",
+        "lat": 38.8767,
+        "lon": -77.0178,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "23",
+        "name": "15th & P St NW",
+        "short_name": "31201",
+        "lat": 38.90985,
+        "lon": -77.034438,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "24",
+        "name": "14th & R St NW",
+        "short_name": "31202",
+        "lat": 38.912682,
+        "lon": -77.031681,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "25",
+        "name": "14th & Rhode Island Ave NW",
+        "short_name": "31203",
+        "lat": 38.9086,
+        "lon": -77.0323,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "26",
+        "name": "20th & E St NW",
+        "short_name": "31204",
+        "lat": 38.8963,
+        "lon": -77.045,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "27",
+        "name": "21st & I St NW",
+        "short_name": "31205",
+        "lat": 38.9008,
+        "lon": -77.047,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 35,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "28",
+        "name": "Georgia & New Hampshire Ave NW",
+        "short_name": "31400",
+        "lat": 38.936043,
+        "lon": -77.024649,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "29",
+        "name": "14th St & Spring Rd NW",
+        "short_name": "31401",
+        "lat": 38.9375,
+        "lon": -77.0328,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "30",
+        "name": "John McCormack Dr & Michigan Ave NE",
+        "short_name": "31502",
+        "lat": 38.9346,
+        "lon": -76.9955,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "31",
+        "name": "5th & K St NW",
+        "short_name": "31600",
+        "lat": 38.90304,
+        "lon": -77.019027,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "32",
+        "name": "19th & East Capitol St SE",
+        "short_name": "31601",
+        "lat": 38.8896,
+        "lon": -76.9769,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "33",
+        "name": "Park Rd & Holmead Pl NW",
+        "short_name": "31602",
+        "lat": 38.9308,
+        "lon": -77.0315,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "34",
+        "name": "Good Hope & Naylor Rd SE",
+        "short_name": "31700",
+        "lat": 38.8601,
+        "lon": -76.9672,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "35",
+        "name": "Connecticut Ave & Newark St NW / Cleveland Park",
+        "short_name": "31305",
+        "lat": 38.934267,
+        "lon": -77.057979,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "36",
+        "name": "Randle Circle & Minnesota Ave SE",
+        "short_name": "31702",
+        "lat": 38.878,
+        "lon": -76.9607,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "37",
+        "name": "Minnesota Ave Metro/DOES",
+        "short_name": "31703",
+        "lat": 38.897063,
+        "lon": -76.947446,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "38",
+        "name": "Nannie Helen Burroughs & Minnesota Ave NE",
+        "short_name": "31704",
+        "lat": 38.901385,
+        "lon": -76.941877,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "39",
+        "name": "Anacostia Metro",
+        "short_name": "31801",
+        "lat": 38.862669,
+        "lon": -76.994637,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "40",
+        "name": "Good Hope Rd & MLK Ave SE",
+        "short_name": "31802",
+        "lat": 38.867373,
+        "lon": -76.988039,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "41",
+        "name": "19th & E Street NW",
+        "short_name": "31206",
+        "lat": 38.8952,
+        "lon": -77.0436,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "42",
+        "name": "4th & W St NE",
+        "short_name": "31500",
+        "lat": 38.919077,
+        "lon": -77.000648,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "43",
+        "name": "10th & U St NW",
+        "short_name": "31111",
+        "lat": 38.9172,
+        "lon": -77.0259,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "44",
+        "name": "Georgia Ave and Fairmont St NW",
+        "short_name": "31207",
+        "lat": 38.9249,
+        "lon": -77.0222,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "45",
+        "name": "1st & N St  SE",
+        "short_name": "31209",
+        "lat": 38.8743,
+        "lon": -77.0057,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 39,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "46",
+        "name": "20th St & Florida Ave NW",
+        "short_name": "31110",
+        "lat": 38.9154,
+        "lon": -77.0446,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "47",
+        "name": "7th & T St NW",
+        "short_name": "31109",
+        "lat": 38.9155,
+        "lon": -77.0222,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "48",
+        "name": "23rd & Eads St",
+        "short_name": "31013",
+        "lat": 38.853531,
+        "lon": -77.053509,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "49",
+        "name": "M St & New Jersey Ave SE",
+        "short_name": "31208",
+        "lat": 38.8763,
+        "lon": -77.0037,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 17,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "51",
+        "name": "Massachusetts Ave & Dupont Circle NW",
+        "short_name": "31200",
+        "lat": 38.9101,
+        "lon": -77.0444,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 45,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "52",
+        "name": "1st & M St NE",
+        "short_name": "31603",
+        "lat": 38.9057,
+        "lon": -77.0056,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "53",
+        "name": "21st & M St NW",
+        "short_name": "31212",
+        "lat": 38.90534,
+        "lon": -77.046774,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "54",
+        "name": "17th & K St NW",
+        "short_name": "31213",
+        "lat": 38.90276,
+        "lon": -77.03863,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "55",
+        "name": "3rd & H St NW",
+        "short_name": "31604",
+        "lat": 38.899408,
+        "lon": -77.015289,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "56",
+        "name": "3rd & D St SE",
+        "short_name": "31605",
+        "lat": 38.8851,
+        "lon": -77.0023,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "57",
+        "name": "Potomac & Pennsylvania Ave SE",
+        "short_name": "31606",
+        "lat": 38.8803,
+        "lon": -76.9862,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "58",
+        "name": "14th & D St SE",
+        "short_name": "31607",
+        "lat": 38.884,
+        "lon": -76.9861,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "59",
+        "name": "17th & Corcoran St NW",
+        "short_name": "31214",
+        "lat": 38.9121,
+        "lon": -77.0387,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "60",
+        "name": "Van Ness Metro / UDC",
+        "short_name": "31300",
+        "lat": 38.944551,
+        "lon": -77.063896,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "61",
+        "name": "Florida Ave & R St NW",
+        "short_name": "31503",
+        "lat": 38.9126,
+        "lon": -77.0135,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "62",
+        "name": "8th & Eye St SE / Barracks Row",
+        "short_name": "31608",
+        "lat": 38.8792,
+        "lon": -76.9953,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "63",
+        "name": "Ward Circle / American University",
+        "short_name": "31301",
+        "lat": 38.938736,
+        "lon": -77.087171,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "64",
+        "name": "Wisconsin Ave & Newark St NW",
+        "short_name": "31302",
+        "lat": 38.934881,
+        "lon": -77.072755,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "65",
+        "name": "14th St Heights / 14th & Crittenden St NW",
+        "short_name": "31402",
+        "lat": 38.947774,
+        "lon": -77.032818,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "66",
+        "name": "Anacostia Library",
+        "short_name": "31804",
+        "lat": 38.865784,
+        "lon": -76.9784,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "67",
+        "name": "Pennsylvania & Minnesota Ave SE",
+        "short_name": "31805",
+        "lat": 38.873057,
+        "lon": -76.971015,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "68",
+        "name": "Eastern Market / 7th & North Carolina Ave SE",
+        "short_name": "31610",
+        "lat": 38.886952,
+        "lon": -76.996806,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "69",
+        "name": "14th St & New York Ave NW",
+        "short_name": "31216",
+        "lat": 38.899632,
+        "lon": -77.031686,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "70",
+        "name": "Benning Branch Library",
+        "short_name": "31705",
+        "lat": 38.894,
+        "lon": -76.947974,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "71",
+        "name": "USDA / 12th & Independence Ave SW",
+        "short_name": "31217",
+        "lat": 38.887237,
+        "lon": -77.028226,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 39,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "72",
+        "name": "Georgetown Harbor / 30th St NW",
+        "short_name": "31215",
+        "lat": 38.9022212,
+        "lon": -77.059219,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "73",
+        "name": "12th & Newton St NE",
+        "short_name": "31501",
+        "lat": 38.933668,
+        "lon": -76.991016,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "74",
+        "name": "US Dept of State / Virginia Ave & 21st St NW",
+        "short_name": "31220",
+        "lat": 38.894919,
+        "lon": -77.046587,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "75",
+        "name": "L'Enfant Plaza / 7th & C St SW",
+        "short_name": "31218",
+        "lat": 38.886266,
+        "lon": -77.022241,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "76",
+        "name": "10th St & Constitution Ave NW",
+        "short_name": "31219",
+        "lat": 38.893028,
+        "lon": -77.026013,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "77",
+        "name": "Kennedy Center",
+        "short_name": "31211",
+        "lat": 38.897293,
+        "lon": -77.05557,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "78",
+        "name": "Eastern Market Metro / Pennsylvania Ave & 7th St SE",
+        "short_name": "31613",
+        "lat": 38.884,
+        "lon": -76.995397,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "79",
+        "name": "18th & M St NW",
+        "short_name": "31221",
+        "lat": 38.904742,
+        "lon": -77.041606,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "80",
+        "name": "Tenleytown / Wisconsin Ave & Albemarle St NW",
+        "short_name": "31303",
+        "lat": 38.947607,
+        "lon": -77.079382,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "81",
+        "name": "13th & H St NE",
+        "short_name": "31611",
+        "lat": 38.9003,
+        "lon": -76.9882,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "82",
+        "name": "5th & F St NW",
+        "short_name": "31620",
+        "lat": 38.897222,
+        "lon": -77.019347,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "83",
+        "name": "New York Ave & 15th St NW",
+        "short_name": "31222",
+        "lat": 38.8991,
+        "lon": -77.0337,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "84",
+        "name": "Convention Center / 7th & M St NW",
+        "short_name": "31223",
+        "lat": 38.905737,
+        "lon": -77.02227,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "85",
+        "name": "Harvard St & Adams Mill Rd NW",
+        "short_name": "31112",
+        "lat": 38.927872,
+        "lon": -77.043358,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "86",
+        "name": "19th & L St NW",
+        "short_name": "31224",
+        "lat": 38.903407,
+        "lon": -77.043648,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "87",
+        "name": "C & O Canal & Wisconsin Ave NW",
+        "short_name": "31225",
+        "lat": 38.90375,
+        "lon": -77.06269,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "88",
+        "name": "6th & Water St SW / SW Waterfront",
+        "short_name": "31609",
+        "lat": 38.87675,
+        "lon": -77.02127,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "89",
+        "name": "D St & Maryland Ave NE",
+        "short_name": "31612",
+        "lat": 38.894758,
+        "lon": -76.997114,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "90",
+        "name": "34th St & Wisconsin Ave NW",
+        "short_name": "31226",
+        "lat": 38.916442,
+        "lon": -77.0682,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "91",
+        "name": "13th St & New York Ave NW",
+        "short_name": "31227",
+        "lat": 38.900283,
+        "lon": -77.029822,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "92",
+        "name": "8th & H St NW",
+        "short_name": "31228",
+        "lat": 38.8997,
+        "lon": -77.023086,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 33,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "93",
+        "name": "10th & Monroe St NE",
+        "short_name": "31504",
+        "lat": 38.932514,
+        "lon": -76.992889,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "94",
+        "name": "Eckington Pl & Q St NE",
+        "short_name": "31505",
+        "lat": 38.910972,
+        "lon": -77.00495,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "95",
+        "name": "6th & H St NE",
+        "short_name": "31615",
+        "lat": 38.899972,
+        "lon": -76.998347,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "96",
+        "name": "3rd & H St NE",
+        "short_name": "31616",
+        "lat": 38.900412,
+        "lon": -77.001949,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "97",
+        "name": "Bladensburg Rd & Benning Rd NE",
+        "short_name": "31617",
+        "lat": 38.900413,
+        "lon": -76.982872,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "98",
+        "name": "4th & East Capitol St NE",
+        "short_name": "31618",
+        "lat": 38.889955,
+        "lon": -77.000349,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "99",
+        "name": "Lincoln Park / 13th & East Capitol St NE ",
+        "short_name": "31619",
+        "lat": 38.890461,
+        "lon": -76.988355,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 25,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "100",
+        "name": "Branch & Pennsylvania Ave SE",
+        "short_name": "31701",
+        "lat": 38.8692,
+        "lon": -76.9599,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "101",
+        "name": "13th & D St NE",
+        "short_name": "31622",
+        "lat": 38.894832,
+        "lon": -76.987633,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "102",
+        "name": "New Hampshire Ave & T St NW",
+        "short_name": "31229",
+        "lat": 38.91554,
+        "lon": -77.03818,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "103",
+        "name": "Metro Center / 12th & G St NW",
+        "short_name": "31230",
+        "lat": 38.898364,
+        "lon": -77.027869,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "104",
+        "name": "14th & D St NW / Ronald Reagan Building",
+        "short_name": "31231",
+        "lat": 38.894514,
+        "lon": -77.031617,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 25,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "105",
+        "name": "7th & F St NW / National Portrait Gallery",
+        "short_name": "31232",
+        "lat": 38.897351,
+        "lon": -77.022465,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "106",
+        "name": "17th & K St NW / Farragut Square",
+        "short_name": "31233",
+        "lat": 38.902061,
+        "lon": -77.038322,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 35,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "107",
+        "name": "20th & O St NW / Dupont South",
+        "short_name": "31234",
+        "lat": 38.908905,
+        "lon": -77.04478,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "108",
+        "name": "4th & D St NW / Judiciary Square",
+        "short_name": "31621",
+        "lat": 38.895344,
+        "lon": -77.016106,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "109",
+        "name": "19th St & Constitution Ave NW",
+        "short_name": "31235",
+        "lat": 38.8923,
+        "lon": -77.0436,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 35,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "110",
+        "name": "37th & O St NW / Georgetown University",
+        "short_name": "31236",
+        "lat": 38.90774,
+        "lon": -77.071652,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "111",
+        "name": "11th & H St NE",
+        "short_name": "31614",
+        "lat": 38.899983,
+        "lon": -76.991383,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "112",
+        "name": "25th St & Pennsylvania Ave NW",
+        "short_name": "31237",
+        "lat": 38.903827,
+        "lon": -77.053485,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "113",
+        "name": "Columbus Circle / Union Station",
+        "short_name": "31623",
+        "lat": 38.89696,
+        "lon": -77.00493,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 47,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "114",
+        "name": "North Capitol St & F St NW",
+        "short_name": "31624",
+        "lat": 38.897446,
+        "lon": -77.009888,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "115",
+        "name": "11th & M St NW",
+        "short_name": "31266",
+        "lat": 38.905607,
+        "lon": -77.027137,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "116",
+        "name": "36th & Calvert St NW / Glover Park",
+        "short_name": "31304",
+        "lat": 38.922581,
+        "lon": -77.070334,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "117",
+        "name": "14th & G St NW",
+        "short_name": "31238",
+        "lat": 38.898069,
+        "lon": -77.031823,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "118",
+        "name": "Potomac Ave & 35th St S",
+        "short_name": "31052",
+        "lat": 38.844015,
+        "lon": -77.050537,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "124",
+        "name": "Ohio Dr & West Basin Dr SW / MLK & FDR Memorials",
+        "short_name": "31240",
+        "lat": 38.88412,
+        "lon": -77.04657,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "125",
+        "name": "11th & F St NW",
+        "short_name": "31262",
+        "lat": 38.897857,
+        "lon": -77.026975,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "126",
+        "name": "23rd & E St NW ",
+        "short_name": "31260",
+        "lat": 38.896104,
+        "lon": -77.049882,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "127",
+        "name": "Lynn & 19th St North",
+        "short_name": "31014",
+        "lat": 38.897315,
+        "lon": -77.070993,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "128",
+        "name": "Rosslyn Metro / Wilson Blvd & Ft Myer Dr",
+        "short_name": "31015",
+        "lat": 38.8946,
+        "lon": -77.072305,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "129",
+        "name": "Clarendon Blvd & Pierce St",
+        "short_name": "31016",
+        "lat": 38.893438,
+        "lon": -77.076389,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "130",
+        "name": "Wilson Blvd & N Uhle St",
+        "short_name": "31017",
+        "lat": 38.891696,
+        "lon": -77.0846,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "131",
+        "name": "N Rhodes & 16th St N",
+        "short_name": "31018",
+        "lat": 38.892164,
+        "lon": -77.079375,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "132",
+        "name": "Fairfax Village",
+        "short_name": "31706",
+        "lat": 38.86559,
+        "lon": -76.952103,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "133",
+        "name": "21st St & Constitution Ave NW",
+        "short_name": "31261",
+        "lat": 38.892459,
+        "lon": -77.046567,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "134",
+        "name": "Wilson Blvd & N Edgewood St",
+        "short_name": "31019",
+        "lat": 38.889,
+        "lon": -77.0925,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "135",
+        "name": "Columbia Rd & Belmont St NW",
+        "short_name": "31113",
+        "lat": 38.920669,
+        "lon": -77.04368,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "136",
+        "name": "17th & Rhode Island Ave NW",
+        "short_name": "31239",
+        "lat": 38.906602,
+        "lon": -77.038785,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "137",
+        "name": "Thomas Circle",
+        "short_name": "31241",
+        "lat": 38.9059,
+        "lon": -77.0325,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 33,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "138",
+        "name": "Wilson Blvd & Franklin Rd",
+        "short_name": "31020",
+        "lat": 38.8904,
+        "lon": -77.0889,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "139",
+        "name": "Clarendon Blvd & N Fillmore St",
+        "short_name": "31021",
+        "lat": 38.8881,
+        "lon": -77.09308,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "140",
+        "name": "Clarendon Metro / Wilson Blvd & N Highland St",
+        "short_name": "31022",
+        "lat": 38.88786,
+        "lon": -77.094875,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 17,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "141",
+        "name": "18th St & Pennsylvania Ave NW",
+        "short_name": "31242",
+        "lat": 38.89968,
+        "lon": -77.041539,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "142",
+        "name": "Maryland & Independence Ave SW",
+        "short_name": "31243",
+        "lat": 38.887299,
+        "lon": -77.018939,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 39,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "143",
+        "name": "4th & E St SW",
+        "short_name": "31244",
+        "lat": 38.88412,
+        "lon": -77.017445,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "144",
+        "name": "3rd & G St SE",
+        "short_name": "31625",
+        "lat": 38.881185,
+        "lon": -77.001828,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "145",
+        "name": "7th & R St NW / Shaw Library",
+        "short_name": "31245",
+        "lat": 38.912719,
+        "lon": -77.022155,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "146",
+        "name": "9th & Upshur St NW",
+        "short_name": "31404",
+        "lat": 38.9418,
+        "lon": -77.0251,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "147",
+        "name": "1st & Rhode Island Ave NW",
+        "short_name": "31506",
+        "lat": 38.915417,
+        "lon": -77.012289,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "148",
+        "name": "Columbia Rd & Georgia Ave NW",
+        "short_name": "31115",
+        "lat": 38.928156,
+        "lon": -77.02344,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "149",
+        "name": "California St & Florida Ave NW",
+        "short_name": "31116",
+        "lat": 38.917761,
+        "lon": -77.04062,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "150",
+        "name": "Benning Rd & East Capitol St NE / Benning Rd Metro",
+        "short_name": "31707",
+        "lat": 38.889935,
+        "lon": -76.93723,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "151",
+        "name": "3000 Connecticut Ave NW / National Zoo",
+        "short_name": "31307",
+        "lat": 38.930282,
+        "lon": -77.055599,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "152",
+        "name": "Anacostia Ave & Benning Rd NE / River Terrace ",
+        "short_name": "31708",
+        "lat": 38.896544,
+        "lon": -76.96012,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "153",
+        "name": "M St & Pennsylvania Ave NW",
+        "short_name": "31246",
+        "lat": 38.905126,
+        "lon": -77.056887,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "154",
+        "name": "15th St & Massachusetts Ave SE",
+        "short_name": "31626",
+        "lat": 38.88732,
+        "lon": -76.983569,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "155",
+        "name": "Congress Heights Metro",
+        "short_name": "31806",
+        "lat": 38.844711,
+        "lon": -76.987823,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "156",
+        "name": "N Quincy St & Glebe Rd",
+        "short_name": "31035",
+        "lat": 38.876393,
+        "lon": -77.107735,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "157",
+        "name": "Wilson Blvd & N Oakland St",
+        "short_name": "31033",
+        "lat": 38.8815,
+        "lon": -77.10396,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "158",
+        "name": "N Veitch  & 20th St N",
+        "short_name": "31029",
+        "lat": 38.896923,
+        "lon": -77.086502,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "159",
+        "name": "10th & K St NW",
+        "short_name": "31263",
+        "lat": 38.9024,
+        "lon": -77.02622,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "160",
+        "name": "Fairfax Dr & Wilson Blvd",
+        "short_name": "31023",
+        "lat": 38.885801,
+        "lon": -77.097745,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "161",
+        "name": "Key Blvd & N Quinn St",
+        "short_name": "31027",
+        "lat": 38.896015,
+        "lon": -77.078107,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "162",
+        "name": "1st & K St SE",
+        "short_name": "31628",
+        "lat": 38.87861,
+        "lon": -77.006004,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "163",
+        "name": "39th & Calvert St NW / Stoddert",
+        "short_name": "31306",
+        "lat": 38.922649,
+        "lon": -77.077271,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "164",
+        "name": "1st & Washington Hospital Center NW",
+        "short_name": "31507",
+        "lat": 38.928743,
+        "lon": -77.012457,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "165",
+        "name": "Virginia Square Metro / N Monroe St & 9th St N",
+        "short_name": "31024",
+        "lat": 38.882788,
+        "lon": -77.103148,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "166",
+        "name": "Central Library / N Quincy St & 10th St N",
+        "short_name": "31025",
+        "lat": 38.88397,
+        "lon": -77.10783,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "167",
+        "name": "Washington Blvd & 10th St N",
+        "short_name": "31026",
+        "lat": 38.884734,
+        "lon": -77.093485,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "168",
+        "name": "Jefferson Dr & 14th St SW",
+        "short_name": "31247",
+        "lat": 38.888553,
+        "lon": -77.032429,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "169",
+        "name": "Smithsonian / Jefferson Dr & 12th St SW",
+        "short_name": "31248",
+        "lat": 38.888767,
+        "lon": -77.02858,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "170",
+        "name": "George Mason Dr & Wilson Blvd",
+        "short_name": "31036",
+        "lat": 38.87887,
+        "lon": -77.1207,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "171",
+        "name": "6th St & Indiana Ave NW",
+        "short_name": "31264",
+        "lat": 38.894573,
+        "lon": -77.01994,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "172",
+        "name": "N Veitch & Key Blvd",
+        "short_name": "31028",
+        "lat": 38.893241,
+        "lon": -77.086045,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "173",
+        "name": "Lee Hwy & N Adams St",
+        "short_name": "31030",
+        "lat": 38.89593,
+        "lon": -77.089006,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "174",
+        "name": "15th & N Scott St",
+        "short_name": "31031",
+        "lat": 38.89054,
+        "lon": -77.08095,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "175",
+        "name": "Washington Blvd & 7th St N",
+        "short_name": "31032",
+        "lat": 38.880834,
+        "lon": -77.091129,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "176",
+        "name": "Ballston Metro / N Stuart & 9th St N",
+        "short_name": "31037",
+        "lat": 38.881044,
+        "lon": -77.111768,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "177",
+        "name": "N Randolph St & Fairfax Dr",
+        "short_name": "31034",
+        "lat": 38.882629,
+        "lon": -77.109366,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "178",
+        "name": "Jefferson Memorial",
+        "short_name": "31249",
+        "lat": 38.879819,
+        "lon": -77.037413,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "179",
+        "name": "Good Hope Rd & 14th St SE",
+        "short_name": "31803",
+        "lat": 38.866611,
+        "lon": -76.985238,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "180",
+        "name": "Glebe Rd & 11th St N",
+        "short_name": "31038",
+        "lat": 38.883921,
+        "lon": -77.116817,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "181",
+        "name": "Wilson Blvd & N Quincy St",
+        "short_name": "31039",
+        "lat": 38.880012,
+        "lon": -77.107854,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "182",
+        "name": "Fairfax Dr & Kenmore St",
+        "short_name": "31040",
+        "lat": 38.884616,
+        "lon": -77.10108,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "183",
+        "name": "Gallaudet / 8th St & Florida Ave NE",
+        "short_name": "31508",
+        "lat": 38.90509,
+        "lon": -76.9941,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "185",
+        "name": "20th & L St NW",
+        "short_name": "31250",
+        "lat": 38.903584,
+        "lon": -77.044789,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "186",
+        "name": "12th & L St NW",
+        "short_name": "31251",
+        "lat": 38.903819,
+        "lon": -77.0284,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "187",
+        "name": "21st St & Pennsylvania Ave NW",
+        "short_name": "31252",
+        "lat": 38.901539,
+        "lon": -77.046564,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "188",
+        "name": "19th & K St NW",
+        "short_name": "31253",
+        "lat": 38.902204,
+        "lon": -77.04337,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "189",
+        "name": "Prince St & Union St",
+        "short_name": "31041",
+        "lat": 38.803124,
+        "lon": -77.040363,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "190",
+        "name": "Market Square / King St & Royal St",
+        "short_name": "31042",
+        "lat": 38.804718,
+        "lon": -77.043363,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "191",
+        "name": "Saint Asaph St & Pendleton  St",
+        "short_name": "31043",
+        "lat": 38.810743,
+        "lon": -77.044664,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "192",
+        "name": "King St & Patrick St",
+        "short_name": "31044",
+        "lat": 38.805317,
+        "lon": -77.049883,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "193",
+        "name": "15th & K St NW",
+        "short_name": "31254",
+        "lat": 38.902,
+        "lon": -77.03353,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "194",
+        "name": "Commerce St & Fayette St",
+        "short_name": "31045",
+        "lat": 38.805648,
+        "lon": -77.05293,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "195",
+        "name": "Henry St & Pendleton St",
+        "short_name": "31046",
+        "lat": 38.811456,
+        "lon": -77.050276,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 17,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "196",
+        "name": "Braddock Rd Metro",
+        "short_name": "31047",
+        "lat": 38.814577,
+        "lon": -77.052808,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 29,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "197",
+        "name": "King St Metro South",
+        "short_name": "31048",
+        "lat": 38.805767,
+        "lon": -77.06072,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "198",
+        "name": "24th & N St NW",
+        "short_name": "31255",
+        "lat": 38.9066,
+        "lon": -77.05152,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "199",
+        "name": "10th & E St NW",
+        "short_name": "31256",
+        "lat": 38.895914,
+        "lon": -77.026064,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "200",
+        "name": "22nd & I St NW / Foggy Bottom",
+        "short_name": "31257",
+        "lat": 38.90088,
+        "lon": -77.048911,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "201",
+        "name": "Utah St & 11th St N ",
+        "short_name": "31049",
+        "lat": 38.883669,
+        "lon": -77.113905,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "202",
+        "name": "Barton St & 10th St N",
+        "short_name": "31050",
+        "lat": 38.884961,
+        "lon": -77.08777,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "203",
+        "name": "Arlington Blvd & N Queen St",
+        "short_name": "31051",
+        "lat": 38.889365,
+        "lon": -77.077294,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "204",
+        "name": "Lincoln Memorial",
+        "short_name": "31258",
+        "lat": 38.888251,
+        "lon": -77.049426,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 25,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "206",
+        "name": "20th St & Virginia Ave NW",
+        "short_name": "31259",
+        "lat": 38.894722,
+        "lon": -77.045128,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "207",
+        "name": "5th St & Massachusetts Ave NW",
+        "short_name": "31265",
+        "lat": 38.90093,
+        "lon": -77.018677,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "208",
+        "name": "39th & Veazey St NW",
+        "short_name": "31308",
+        "lat": 38.943837,
+        "lon": -77.077078,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "209",
+        "name": "Fessenden St & Wisconsin Ave NW",
+        "short_name": "31309",
+        "lat": 38.954812,
+        "lon": -77.082426,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "210",
+        "name": "M St & Delaware Ave NE",
+        "short_name": "31627",
+        "lat": 38.905707,
+        "lon": -77.003041,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "211",
+        "name": "Columbia Pike & S Courthouse Rd",
+        "short_name": "31053",
+        "lat": 38.863833,
+        "lon": -77.080319,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "212",
+        "name": "Walter Reed Community Center / Walter Reed Dr & 16th St S",
+        "short_name": "31054",
+        "lat": 38.857803,
+        "lon": -77.086733,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "213",
+        "name": "28th St S & S Meade St",
+        "short_name": "31055",
+        "lat": 38.846222,
+        "lon": -77.069275,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "214",
+        "name": "18th St & Wyoming Ave NW",
+        "short_name": "31114",
+        "lat": 38.918809,
+        "lon": -77.041571,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "215",
+        "name": "5th & Kennedy St NW",
+        "short_name": "31403",
+        "lat": 38.956595,
+        "lon": -77.019815,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "216",
+        "name": "Georgia Ave & Emerson St NW",
+        "short_name": "31405",
+        "lat": 38.949662,
+        "lon": -77.027333,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "217",
+        "name": "14th & Upshur St NW",
+        "short_name": "31406",
+        "lat": 38.942016,
+        "lon": -77.032652,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "218",
+        "name": "14th St & Colorado Ave NW",
+        "short_name": "31407",
+        "lat": 38.956432,
+        "lon": -77.032947,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "219",
+        "name": "S Troy St & 26th St S",
+        "short_name": "31056",
+        "lat": 38.847977,
+        "lon": -77.075104,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "220",
+        "name": "S Four Mile Run Dr & S Shirlington Rd",
+        "short_name": "31057",
+        "lat": 38.8444,
+        "lon": -77.085931,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "221",
+        "name": "S Oakland St & Columbia Pike",
+        "short_name": "31058",
+        "lat": 38.860789,
+        "lon": -77.09586,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "222",
+        "name": "S Four Mile Run & Walter Reed Dr",
+        "short_name": "31059",
+        "lat": 38.84736,
+        "lon": -77.095431,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "223",
+        "name": "S Arlington Mill Dr & Campbell Ave",
+        "short_name": "31060",
+        "lat": 38.84232,
+        "lon": -77.089555,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "224",
+        "name": "S Kenmore & 24th St S",
+        "short_name": "31061",
+        "lat": 38.848454,
+        "lon": -77.084918,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "225",
+        "name": "13th St & Eastern Ave",
+        "short_name": "32006",
+        "lat": 38.987,
+        "lon": -77.029417,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "226",
+        "name": "Wisconsin Ave & O St NW",
+        "short_name": "31312",
+        "lat": 38.90849,
+        "lon": -77.063586,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "227",
+        "name": "S George Mason Dr & 13th St S",
+        "short_name": "31062",
+        "lat": 38.854691,
+        "lon": -77.100555,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "228",
+        "name": "Connecticut & Nebraska Ave NW",
+        "short_name": "31310",
+        "lat": 38.955016,
+        "lon": -77.069956,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "229",
+        "name": "17th St & Massachusetts Ave NW",
+        "short_name": "31267",
+        "lat": 38.908142,
+        "lon": -77.038359,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "230",
+        "name": "15th & Euclid St  NW",
+        "short_name": "31117",
+        "lat": 38.92333,
+        "lon": -77.0352,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "231",
+        "name": "8th & East Capitol St NE",
+        "short_name": "31629",
+        "lat": 38.889988,
+        "lon": -76.995193,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "232",
+        "name": "New Jersey Ave & R St NW",
+        "short_name": "31509",
+        "lat": 38.912659,
+        "lon": -77.017669,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "233",
+        "name": "15th & East Capitol St NE",
+        "short_name": "31630",
+        "lat": 38.889908,
+        "lon": -76.983326,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "234",
+        "name": "8th & F St NE",
+        "short_name": "31631",
+        "lat": 38.897274,
+        "lon": -76.994749,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "235",
+        "name": "18th St & Rhode Island Ave NE",
+        "short_name": "31510",
+        "lat": 38.927095,
+        "lon": -76.978924,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "236",
+        "name": "15th & F St NE",
+        "short_name": "31632",
+        "lat": 38.897195,
+        "lon": -76.983575,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "237",
+        "name": "12th & Irving St NE",
+        "short_name": "31511",
+        "lat": 38.928644,
+        "lon": -76.990955,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "239",
+        "name": "Alabama & MLK Ave SE",
+        "short_name": "31800",
+        "lat": 38.843222,
+        "lon": -76.999388,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "240",
+        "name": "Pleasant St & MLK Ave SE",
+        "short_name": "31807",
+        "lat": 38.863897,
+        "lon": -76.990037,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "241",
+        "name": "Neal St & Trinidad Ave NE",
+        "short_name": "31512",
+        "lat": 38.903732,
+        "lon": -76.987211,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "242",
+        "name": "12th & U St NW",
+        "short_name": "31268",
+        "lat": 38.916787,
+        "lon": -77.028139,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "243",
+        "name": "S George Mason Dr & Four Mile Run",
+        "short_name": "31063",
+        "lat": 38.852248,
+        "lon": -77.105022,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "244",
+        "name": "S Stafford & 34th St S",
+        "short_name": "31064",
+        "lat": 38.834108,
+        "lon": -77.087323,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "245",
+        "name": "N Pershing Dr & Wayne St",
+        "short_name": "31065",
+        "lat": 38.880705,
+        "lon": -77.08596,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "246",
+        "name": "Columbia Pike & S Orme St",
+        "short_name": "31066",
+        "lat": 38.867262,
+        "lon": -77.072315,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "247",
+        "name": "3rd St & Pennsylvania Ave SE",
+        "short_name": "31269",
+        "lat": 38.887378,
+        "lon": -77.001955,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "248",
+        "name": "8th & D St NW",
+        "short_name": "31270",
+        "lat": 38.894851,
+        "lon": -77.02324,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "249",
+        "name": "3rd & Elm St NW",
+        "short_name": "31118",
+        "lat": 38.917622,
+        "lon": -77.01597,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "250",
+        "name": "Rhode Island Ave & V St NE",
+        "short_name": "31513",
+        "lat": 38.918155,
+        "lon": -77.004746,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "251",
+        "name": "Constitution Ave & 2nd St NW/DOL",
+        "short_name": "31271",
+        "lat": 38.892275,
+        "lon": -77.013917,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "252",
+        "name": "Washington & Independence Ave SW/HHS",
+        "short_name": "31272",
+        "lat": 38.886978,
+        "lon": -77.013769,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "253",
+        "name": "Independence Ave & L'Enfant Plaza SW/DOE",
+        "short_name": "31633",
+        "lat": 38.887312,
+        "lon": -77.025762,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "254",
+        "name": "Hamlin & 7th St NE",
+        "short_name": "31514",
+        "lat": 38.927497,
+        "lon": -76.997194,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "255",
+        "name": "Columbia Pike & S Walter Reed Dr",
+        "short_name": "31067",
+        "lat": 38.862478,
+        "lon": -77.086599,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 12,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "256",
+        "name": "Columbia Pike & S Dinwiddie St / Arlington Mill Community Center",
+        "short_name": "31068",
+        "lat": 38.856319,
+        "lon": -77.11153,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "257",
+        "name": "Pershing & N George Mason Dr",
+        "short_name": "31069",
+        "lat": 38.871822,
+        "lon": -77.107906,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "258",
+        "name": "Fenton St & New York Ave ",
+        "short_name": "32001",
+        "lat": 38.985404,
+        "lon": -77.023082,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "259",
+        "name": "Bethesda Ave & Arlington Rd",
+        "short_name": "32002",
+        "lat": 38.981103,
+        "lon": -77.097426,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "260",
+        "name": "Montgomery Ave & Waverly St ",
+        "short_name": "32003",
+        "lat": 38.983838,
+        "lon": -77.09221,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "261",
+        "name": "Fallsgrove Blvd & Fallsgrove Dr",
+        "short_name": "32004",
+        "lat": 39.096312,
+        "lon": -77.192672,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "262",
+        "name": "Traville Gateway Dr & Gudelsky Dr",
+        "short_name": "32005",
+        "lat": 39.093783,
+        "lon": -77.202501,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "263",
+        "name": "Norfolk Ave & Fairmont St",
+        "short_name": "32000",
+        "lat": 38.988562,
+        "lon": -77.096539,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "264",
+        "name": "E Montgomery Ave & Maryland Ave",
+        "short_name": "32007",
+        "lat": 39.084125,
+        "lon": -77.151291,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "265",
+        "name": "Cordell & Norfolk Ave",
+        "short_name": "32008",
+        "lat": 38.98954,
+        "lon": -77.098029,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "266",
+        "name": "Frederick Ave & Horners Ln",
+        "short_name": "32009",
+        "lat": 39.094772,
+        "lon": -77.145213,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "267",
+        "name": "Philadelphia & Maple Ave",
+        "short_name": "32010",
+        "lat": 38.98128,
+        "lon": -77.011336,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "268",
+        "name": "Maple & Ritchie Ave",
+        "short_name": "32011",
+        "lat": 38.983627,
+        "lon": -77.006311,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "269",
+        "name": "Silver Spring Metro/Colesville Rd & Wayne Ave",
+        "short_name": "32012",
+        "lat": 38.99521,
+        "lon": -77.02918,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "270",
+        "name": "Montgomery & East Ln",
+        "short_name": "32013",
+        "lat": 38.983525,
+        "lon": -77.095367,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "271",
+        "name": "Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir",
+        "short_name": "32014",
+        "lat": 38.961763,
+        "lon": -77.085998,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "272",
+        "name": "14th & Belmont St NW",
+        "short_name": "31119",
+        "lat": 38.921074,
+        "lon": -77.031887,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "273",
+        "name": "3rd & Tingey St SE",
+        "short_name": "31634",
+        "lat": 38.87501,
+        "lon": -77.0024,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "274",
+        "name": "10th & Florida Ave NW",
+        "short_name": "31120",
+        "lat": 38.920387,
+        "lon": -77.025672,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "275",
+        "name": "Potomac Ave & 8th St SE",
+        "short_name": "31635",
+        "lat": 38.876737,
+        "lon": -76.994468,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "276",
+        "name": "Crabbs Branch Way & Redland Rd",
+        "short_name": "32015",
+        "lat": 39.120045,
+        "lon": -77.156985,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "277",
+        "name": "Fallsgrove Dr & W Montgomery Ave",
+        "short_name": "32016",
+        "lat": 39.099376,
+        "lon": -77.188014,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "278",
+        "name": "Monroe St & Monroe Pl",
+        "short_name": "32017",
+        "lat": 39.082779,
+        "lon": -77.148827,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "279",
+        "name": "Needwood Rd & Eagles Head Ct",
+        "short_name": "32018",
+        "lat": 39.123513,
+        "lon": -77.15741,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "280",
+        "name": "East West Hwy & Blair Mill Rd",
+        "short_name": "32019",
+        "lat": 38.990249,
+        "lon": -77.02935,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "281",
+        "name": "Crabbs Branch Way & Calhoun Pl",
+        "short_name": "32020",
+        "lat": 39.107709,
+        "lon": -77.152072,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "282",
+        "name": "47th & Elm St",
+        "short_name": "32021",
+        "lat": 38.982456,
+        "lon": -77.091991,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "283",
+        "name": "Garland Ave & Walden Rd",
+        "short_name": "32022",
+        "lat": 39.000578,
+        "lon": -77.00149,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "284",
+        "name": "Montgomery College/W Campus Dr & Mannakee St",
+        "short_name": "32023",
+        "lat": 39.095661,
+        "lon": -77.159048,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 21,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "285",
+        "name": "Fenton St & Gist Ave",
+        "short_name": "32024",
+        "lat": 38.989724,
+        "lon": -77.023854,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "286",
+        "name": "Carroll & Westmoreland Ave",
+        "short_name": "32025",
+        "lat": 38.975,
+        "lon": -77.01121,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "287",
+        "name": "Carroll & Ethan Allen Ave",
+        "short_name": "32026",
+        "lat": 38.977933,
+        "lon": -77.006472,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "288",
+        "name": "Battery Ln & Trolley Trail",
+        "short_name": "32027",
+        "lat": 38.992375,
+        "lon": -77.100104,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "289",
+        "name": "Norfolk & Rugby Ave",
+        "short_name": "32028",
+        "lat": 38.990639,
+        "lon": -77.100239,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "290",
+        "name": "Offutt Ln & Chevy Chase Dr",
+        "short_name": "32029",
+        "lat": 38.977093,
+        "lon": -77.094589,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "291",
+        "name": "Broschart & Blackwell Rd",
+        "short_name": "32030",
+        "lat": 39.102099,
+        "lon": -77.200322,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "292",
+        "name": "Taft St & E Gude Dr",
+        "short_name": "32031",
+        "lat": 39.094103,
+        "lon": -77.132954,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "293",
+        "name": "Fleet St & Ritchie Pkwy",
+        "short_name": "32032",
+        "lat": 39.076331,
+        "lon": -77.141378,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "294",
+        "name": "Piccard & W Gude Dr",
+        "short_name": "32033",
+        "lat": 39.102212,
+        "lon": -77.177091,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "295",
+        "name": "Ripley & Bonifant St",
+        "short_name": "32034",
+        "lat": 38.992679,
+        "lon": -77.029457,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "296",
+        "name": "Georgia Ave & Spring St",
+        "short_name": "32035",
+        "lat": 38.999388,
+        "lon": -77.031555,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "297",
+        "name": "Fenton St & Ellsworth Dr ",
+        "short_name": "32036",
+        "lat": 38.997033,
+        "lon": -77.025608,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "298",
+        "name": "King Farm Blvd & Pleasant Dr",
+        "short_name": "32037",
+        "lat": 39.114688,
+        "lon": -77.171487,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 18,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "299",
+        "name": "King Farm Blvd & Piccard Dr",
+        "short_name": "32038",
+        "lat": 39.110314,
+        "lon": -77.182669,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "301",
+        "name": "Calvert St & Woodley Pl NW",
+        "short_name": "31121",
+        "lat": 38.923583,
+        "lon": -77.050046,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "302",
+        "name": "New Jersey Ave & N St NW/Dunbar HS",
+        "short_name": "31636",
+        "lat": 38.90706,
+        "lon": -77.015231,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "303",
+        "name": "Nannie Helen Burroughs Ave & 49th St NE",
+        "short_name": "31710",
+        "lat": 38.898536,
+        "lon": -76.931862,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "304",
+        "name": "Deanwood Rec Center",
+        "short_name": "31711",
+        "lat": 38.908473,
+        "lon": -76.933099,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "305",
+        "name": "Hains Point/Buckeye & Ohio Dr SW",
+        "short_name": "31273",
+        "lat": 38.878433,
+        "lon": -77.03023,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 17,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "306",
+        "name": "Arlington Blvd & Fillmore St",
+        "short_name": "31070",
+        "lat": 38.873755,
+        "lon": -77.089233,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "307",
+        "name": "Long Bridge Park/Long Bridge Dr & 6th St S",
+        "short_name": "31071",
+        "lat": 38.86646,
+        "lon": -77.04826,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "308",
+        "name": "Old Georgetown Rd & Southwick St",
+        "short_name": "32039",
+        "lat": 38.999634,
+        "lon": -77.109647,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "309",
+        "name": "Friendship Blvd & Willard Ave",
+        "short_name": "32040",
+        "lat": 38.96115,
+        "lon": -77.088659,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "310",
+        "name": "North Capitol St & G Pl NE",
+        "short_name": "31637",
+        "lat": 38.899703,
+        "lon": -77.008911,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "311",
+        "name": "31st & Woodrow St S",
+        "short_name": "31072",
+        "lat": 38.837666,
+        "lon": -77.09482,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "312",
+        "name": "Washington Blvd & Walter Reed Dr ",
+        "short_name": "31073",
+        "lat": 38.873219,
+        "lon": -77.082104,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "313",
+        "name": "TJ Cmty Ctr / 2nd St & S Old Glebe Rd",
+        "short_name": "31074",
+        "lat": 38.869418,
+        "lon": -77.095596,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "314",
+        "name": "Connecticut Ave & Tilden St NW",
+        "short_name": "31313",
+        "lat": 38.941154,
+        "lon": -77.062036,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "315",
+        "name": "Medical Center Dr & Key West Ave",
+        "short_name": "32041",
+        "lat": 39.103091,
+        "lon": -77.196442,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "316",
+        "name": "Shady Grove Hospital",
+        "short_name": "32042",
+        "lat": 39.097636,
+        "lon": -77.196636,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "317",
+        "name": "Veterans Pl & Pershing Dr ",
+        "short_name": "32043",
+        "lat": 38.997445,
+        "lon": -77.023894,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "318",
+        "name": "Rockville Metro East",
+        "short_name": "32044",
+        "lat": 39.085394,
+        "lon": -77.145803,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 13,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "319",
+        "name": "1st & H St NW",
+        "short_name": "31638",
+        "lat": 38.900358,
+        "lon": -77.012108,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "320",
+        "name": "Fort Totten Metro",
+        "short_name": "31515",
+        "lat": 38.952369,
+        "lon": -77.002721,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "321",
+        "name": "Takoma Metro",
+        "short_name": "31408",
+        "lat": 38.975219,
+        "lon": -77.016855,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "322",
+        "name": "Rhode Island Ave Metro",
+        "short_name": "31516",
+        "lat": 38.920682,
+        "lon": -76.995876,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "323",
+        "name": "Rolfe St & 9th St S",
+        "short_name": "31075",
+        "lat": 38.866471,
+        "lon": -77.076131,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "324",
+        "name": "Shirlington Transit Center / S Quincy & Randolph St",
+        "short_name": "31076",
+        "lat": 38.839912,
+        "lon": -77.087083,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "325",
+        "name": "Shady Grove Metro West",
+        "short_name": "32045",
+        "lat": 39.119765,
+        "lon": -77.166093,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "326",
+        "name": "River Rd & Landy Ln",
+        "short_name": "32046",
+        "lat": 38.964992,
+        "lon": -77.103381,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "327",
+        "name": "Rockville Metro West",
+        "short_name": "32047",
+        "lat": 39.084379,
+        "lon": -77.146866,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "328",
+        "name": "Bethesda Metro",
+        "short_name": "32048",
+        "lat": 38.984691,
+        "lon": -77.094537,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 12,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "329",
+        "name": "Iwo Jima Memorial/N Meade & 14th St N",
+        "short_name": "31077",
+        "lat": 38.88992,
+        "lon": -77.071301,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "330",
+        "name": "33rd & Water St NW",
+        "short_name": "31314",
+        "lat": 38.903295,
+        "lon": -77.065884,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "331",
+        "name": "Duke St & John Carlyle St",
+        "short_name": "31081",
+        "lat": 38.804378,
+        "lon": -77.060866,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "332",
+        "name": "Lee Hwy & N Cleveland St",
+        "short_name": "31079",
+        "lat": 38.894941,
+        "lon": -77.09169,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "333",
+        "name": "Arlington Blvd & S George Mason Dr/NFATC",
+        "short_name": "31078",
+        "lat": 38.869442,
+        "lon": -77.104503,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "334",
+        "name": "MLK Library/9th & G St NW",
+        "short_name": "31274",
+        "lat": 38.898404,
+        "lon": -77.024281,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "335",
+        "name": "Lee Hwy & N Scott St",
+        "short_name": "31080",
+        "lat": 38.897612,
+        "lon": -77.080851,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "336",
+        "name": "New Hampshire Ave & 24th St NW",
+        "short_name": "31275",
+        "lat": 38.901755,
+        "lon": -77.051084,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "337",
+        "name": "Eisenhower Ave & Mill Race Ln",
+        "short_name": "31082",
+        "lat": 38.801111,
+        "lon": -77.068952,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "338",
+        "name": "Potomac Greens Dr & Slaters Ln",
+        "short_name": "31083",
+        "lat": 38.82175,
+        "lon": -77.047494,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "339",
+        "name": "Ballenger Ave & Dulaney St",
+        "short_name": "31084",
+        "lat": 38.802677,
+        "lon": -77.063562,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "340",
+        "name": "Mount Vernon Ave & E Nelson Ave",
+        "short_name": "31085",
+        "lat": 38.820064,
+        "lon": -77.057619,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "341",
+        "name": "Mount Vernon Ave & E Del Ray Ave",
+        "short_name": "31086",
+        "lat": 38.82595,
+        "lon": -77.058541,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "342",
+        "name": "Monroe Ave & Leslie Ave",
+        "short_name": "31087",
+        "lat": 38.820932,
+        "lon": -77.053096,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "343",
+        "name": "Mount Vernon Ave & Kennedy St",
+        "short_name": "31088",
+        "lat": 38.833077,
+        "lon": -77.059821,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "344",
+        "name": "Court House Metro / 15th & N Uhle St ",
+        "short_name": "31089",
+        "lat": 38.890612,
+        "lon": -77.084801,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 21,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "345",
+        "name": "Washington Adventist U / Flower Ave & Division St",
+        "short_name": "32049",
+        "lat": 38.986743,
+        "lon": -77.000035,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "346",
+        "name": "6th & S Ball St",
+        "short_name": "31090",
+        "lat": 38.864702,
+        "lon": -77.048672,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "347",
+        "name": "McKinley St & Connecticut Ave NW",
+        "short_name": "31315",
+        "lat": 38.96497,
+        "lon": -77.075946,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "348",
+        "name": "15th & L St NW",
+        "short_name": "31276",
+        "lat": 38.90366,
+        "lon": -77.034846,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "349",
+        "name": "17th & G St NW",
+        "short_name": "31277",
+        "lat": 38.89841,
+        "lon": -77.039624,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "350",
+        "name": "Spring St & Second Ave",
+        "short_name": "32050",
+        "lat": 38.997653,
+        "lon": -77.034499,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "351",
+        "name": "18th & R St NW",
+        "short_name": "31278",
+        "lat": 38.912648,
+        "lon": -77.041834,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "352",
+        "name": "S Joyce & 16th St S",
+        "short_name": "31091",
+        "lat": 38.859254,
+        "lon": -77.063275,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "353",
+        "name": "Union Market/6th St & Neal Pl NE",
+        "short_name": "31517",
+        "lat": 38.908008,
+        "lon": -76.996985,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "354",
+        "name": "Lee Hwy & N Monroe St",
+        "short_name": "31092",
+        "lat": 38.896456,
+        "lon": -77.104562,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "355",
+        "name": "21st St N & N Pierce St",
+        "short_name": "31093",
+        "lat": 38.898984,
+        "lon": -77.078317,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "356",
+        "name": "Lee Hwy & N Kirkwood Rd",
+        "short_name": "31094",
+        "lat": 38.895377,
+        "lon": -77.09713,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "357",
+        "name": "19th & G St NW",
+        "short_name": "31279",
+        "lat": 38.898412,
+        "lon": -77.043182,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "359",
+        "name": "Wilson Blvd & N Illinois St ",
+        "short_name": "31902",
+        "lat": 38.876528,
+        "lon": -77.12712,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "364",
+        "name": "Army Navy Dr & S Nash St",
+        "short_name": "31095",
+        "lat": 38.862467,
+        "lon": -77.068242,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "367",
+        "name": "11th & S St NW",
+        "short_name": "31280",
+        "lat": 38.913761,
+        "lon": -77.027025,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "368",
+        "name": "S Walter Reed Dr & 8th St S",
+        "short_name": "31096",
+        "lat": 38.86612,
+        "lon": -77.08787,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "369",
+        "name": "2nd & G St NE",
+        "short_name": "31639",
+        "lat": 38.89967,
+        "lon": -77.003666,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "370",
+        "name": "8th & O St NW",
+        "short_name": "31281",
+        "lat": 38.90864,
+        "lon": -77.02277,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "371",
+        "name": "Georgia & Missouri Ave NW",
+        "short_name": "31411",
+        "lat": 38.961339,
+        "lon": -77.027855,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "373",
+        "name": "Oklahoma Ave & D St NE",
+        "short_name": "31712",
+        "lat": 38.894474,
+        "lon": -76.974828,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "374",
+        "name": "Maryland Ave & E St NE",
+        "short_name": "31640",
+        "lat": 38.896134,
+        "lon": -76.9929,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "375",
+        "name": "New York Ave & Hecht Ave NE",
+        "short_name": "31518",
+        "lat": 38.915604,
+        "lon": -76.983683,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "376",
+        "name": "Yuma St & Tenley Circle NW",
+        "short_name": "31316",
+        "lat": 38.946182,
+        "lon": -77.08059,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "377",
+        "name": "Connecticut Ave & Chevy Chase Lake Dr",
+        "short_name": "32051",
+        "lat": 38.994113,
+        "lon": -77.076986,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "378",
+        "name": "Key West Ave & Siesta Key Way",
+        "short_name": "32052",
+        "lat": 39.105295,
+        "lon": -77.194774,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "379",
+        "name": "Lee Hwy & N Woodstock St",
+        "short_name": "31900",
+        "lat": 38.898301,
+        "lon": -77.118009,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "380",
+        "name": "Saint Asaph & Madison St",
+        "short_name": "31097",
+        "lat": 38.812718,
+        "lon": -77.044097,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "381",
+        "name": "King St Metro North / Cameron St",
+        "short_name": "31098",
+        "lat": 38.80704,
+        "lon": -77.059817,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "382",
+        "name": "Madison & N Henry St",
+        "short_name": "31099",
+        "lat": 38.813485,
+        "lon": -77.049468,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "383",
+        "name": "Medical Center Metro ",
+        "short_name": "32053",
+        "lat": 38.999378,
+        "lon": -77.097882,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "384",
+        "name": "Washington Blvd & N Frederick St",
+        "short_name": "31901",
+        "lat": 38.884829,
+        "lon": -77.127671,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "385",
+        "name": "Wisconsin Ave & Ingomar St NW",
+        "short_name": "31317",
+        "lat": 38.958267,
+        "lon": -77.084636,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "386",
+        "name": "16th & Irving St NW",
+        "short_name": "31122",
+        "lat": 38.928893,
+        "lon": -77.03625,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "387",
+        "name": "16th & R St NW",
+        "short_name": "31282",
+        "lat": 38.912652,
+        "lon": -77.036278,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "388",
+        "name": "Lyttonsville Rd & Lyttonsville Pl",
+        "short_name": "32054",
+        "lat": 38.999679,
+        "lon": -77.051168,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "389",
+        "name": "Woodmont Ave & Strathmore St",
+        "short_name": "32055",
+        "lat": 38.979875,
+        "lon": -77.093522,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "390",
+        "name": "14th & L St NW",
+        "short_name": "31283",
+        "lat": 38.903658,
+        "lon": -77.031737,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "391",
+        "name": "1st & O St NW",
+        "short_name": "31519",
+        "lat": 38.908643,
+        "lon": -77.012365,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "392",
+        "name": "South Capitol & Atlantic St SW",
+        "short_name": "31811",
+        "lat": 38.831516,
+        "lon": -77.008133,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "393",
+        "name": "18th & C St NW",
+        "short_name": "31284",
+        "lat": 38.893511,
+        "lon": -77.041544,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "394",
+        "name": "22nd & P ST NW",
+        "short_name": "31285",
+        "lat": 38.909394,
+        "lon": -77.048728,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "395",
+        "name": "East West Hwy & 16th St",
+        "short_name": "32056",
+        "lat": 38.995681,
+        "lon": -77.038721,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "396",
+        "name": "Royal & Wilkes St",
+        "short_name": "31903",
+        "lat": 38.799267,
+        "lon": -77.0447,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "397",
+        "name": "14th & Girard St NW",
+        "short_name": "31123",
+        "lat": 38.925284,
+        "lon": -77.032375,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "398",
+        "name": "Potomac Ave & Main Line Blvd",
+        "short_name": "31910",
+        "lat": 38.822738,
+        "lon": -77.049265,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "399",
+        "name": "11th & O St NW",
+        "short_name": "31286",
+        "lat": 38.90843,
+        "lon": -77.02714,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "400",
+        "name": "10th St & L'Enfant Plaza SW",
+        "short_name": "31287",
+        "lat": 38.884377,
+        "lon": -77.025791,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "401",
+        "name": "Connecticut Ave & Yuma St NW",
+        "short_name": "31318",
+        "lat": 38.947156,
+        "lon": -77.065115,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "402",
+        "name": "2nd St & Massachusetts Ave NE",
+        "short_name": "31641",
+        "lat": 38.894972,
+        "lon": -77.003135,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "403",
+        "name": "Radford & Osage St",
+        "short_name": "31908",
+        "lat": 38.828437,
+        "lon": -77.086031,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "404",
+        "name": "East Falls Church Metro/Sycamore St & 19th St N",
+        "short_name": "31904",
+        "lat": 38.884859,
+        "lon": -77.155988,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "405",
+        "name": "Kennebec St & 11th St N",
+        "short_name": "31905",
+        "lat": 38.880992,
+        "lon": -77.135271,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "406",
+        "name": "Commonwealth Ave & Oak St",
+        "short_name": "31906",
+        "lat": 38.812711,
+        "lon": -77.061715,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "407",
+        "name": "Commonwealth & E Monroe Ave",
+        "short_name": "31913",
+        "lat": 38.82005823354218,
+        "lon": -77.06282079219818,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "408",
+        "name": "4th St & Madison Dr NW",
+        "short_name": "31288",
+        "lat": 38.890493,
+        "lon": -77.017253,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "409",
+        "name": "Henry Bacon Dr & Lincoln Memorial Circle NW",
+        "short_name": "31289",
+        "lat": 38.890544,
+        "lon": -77.049379,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "410",
+        "name": "17th St & Independence Ave SW",
+        "short_name": "31290",
+        "lat": 38.888097,
+        "lon": -77.038325,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "411",
+        "name": "Franklin & S Washington St",
+        "short_name": "31907",
+        "lat": 38.798133,
+        "lon": -77.0487,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "412",
+        "name": "Mount Vernon Ave & Four Mile Run Park",
+        "short_name": "31909",
+        "lat": 38.843422,
+        "lon": -77.064016,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "413",
+        "name": "New Jersey Ave & L St NW",
+        "short_name": "31642",
+        "lat": 38.903598,
+        "lon": -77.01397,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "414",
+        "name": "Mount Vernon Ave & Bruce St",
+        "short_name": "31912",
+        "lat": 38.841291,
+        "lon": -77.063093,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "415",
+        "name": "Lee Center",
+        "short_name": "31914",
+        "lat": 38.797557,
+        "lon": -77.053766,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "416",
+        "name": "Powhatan St & Bashford Ln",
+        "short_name": "31915",
+        "lat": 38.818748,
+        "lon": -77.047783,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "417",
+        "name": "Potomac & Swann Ave",
+        "short_name": "31916",
+        "lat": 38.829545,
+        "lon": -77.047844,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "418",
+        "name": "14th & Irving St NW",
+        "short_name": "31124",
+        "lat": 38.928552,
+        "lon": -77.032224,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 31,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "419",
+        "name": "16th & K St NW",
+        "short_name": "31291",
+        "lat": 38.90268,
+        "lon": -77.035737,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "420",
+        "name": "Wisconsin Ave & Brandywine St NW",
+        "short_name": "31319",
+        "lat": 38.949813,
+        "lon": -77.080217,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 25,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "421",
+        "name": "24th & R St NE / National Arboretum",
+        "short_name": "31520",
+        "lat": 38.91263,
+        "lon": -76.971923,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "422",
+        "name": "Division Ave & Foote St NE",
+        "short_name": "31713",
+        "lat": 38.897407,
+        "lon": -76.925907,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "423",
+        "name": "16th & Q St SE / Anacostia HS",
+        "short_name": "31812",
+        "lat": 38.870695,
+        "lon": -76.982359,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "424",
+        "name": "Spring Hill Metro",
+        "short_name": "32200",
+        "lat": 38.929261,
+        "lon": -77.240654,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "425",
+        "name": "Westpark Dr & Leesburg Pike",
+        "short_name": "32201",
+        "lat": 38.92403,
+        "lon": -77.235955,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "426",
+        "name": "Solutions & Greensboro Dr",
+        "short_name": "32202",
+        "lat": 38.923116,
+        "lon": -77.232108,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "429",
+        "name": "Westpark & Jones Branch Dr",
+        "short_name": "32205",
+        "lat": 38.924437,
+        "lon": -77.217664,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "430",
+        "name": "Jones Branch & Westbranch Dr",
+        "short_name": "32206",
+        "lat": 38.931911,
+        "lon": -77.219261,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 13,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "431",
+        "name": "Westpark & Park Run Dr",
+        "short_name": "32207",
+        "lat": 38.928919,
+        "lon": -77.225394,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "432",
+        "name": "Tysons West Transit Center",
+        "short_name": "32208",
+        "lat": 38.932636,
+        "lon": -77.231825,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "434",
+        "name": "Town Center Pkwy & Bowman Towne Dr",
+        "short_name": "32210",
+        "lat": 38.962524,
+        "lon": -77.361902,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "435",
+        "name": "Reston Regional Library",
+        "short_name": "32211",
+        "lat": 38.962095,
+        "lon": -77.358815,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "436",
+        "name": "New Dominion Pkwy & Fountain Dr",
+        "short_name": "32212",
+        "lat": 38.960574,
+        "lon": -77.356324,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "437",
+        "name": "Sunset Hills & Old Reston Ave",
+        "short_name": "32213",
+        "lat": 38.955079,
+        "lon": -77.351649,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "438",
+        "name": "Reston Town Center Transit Station",
+        "short_name": "32214",
+        "lat": 38.957037,
+        "lon": -77.359718,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 17,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "439",
+        "name": "1st & D St SE",
+        "short_name": "31643",
+        "lat": 38.884916,
+        "lon": -77.005965,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "440",
+        "name": "Reston Station",
+        "short_name": "32215",
+        "lat": 38.948363,
+        "lon": -77.338119,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 35,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "441",
+        "name": "Library St & Freedom Dr",
+        "short_name": "32216",
+        "lat": 38.959633,
+        "lon": -77.358741,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "443",
+        "name": "22nd St & Constitution Ave NW",
+        "short_name": "31292",
+        "lat": 38.892441,
+        "lon": -77.048947,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 23,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "444",
+        "name": "61st St & Banks Pl NE",
+        "short_name": "31714",
+        "lat": 38.891805,
+        "lon": -76.913563,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "445",
+        "name": "Temporary Rd & Old Reston Ave",
+        "short_name": "32218",
+        "lat": 38.960084,
+        "lon": -77.353414,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "446",
+        "name": "Reston YMCA",
+        "short_name": "32219",
+        "lat": 38.955314,
+        "lon": -77.368416,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "448",
+        "name": "N Lynn St & Fairfax Dr",
+        "short_name": "31917",
+        "lat": 38.89386,
+        "lon": -77.070862,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "450",
+        "name": "Greensboro & International Dr",
+        "short_name": "32221",
+        "lat": 38.923083,
+        "lon": -77.227417,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "451",
+        "name": "Madison & Fairfax St",
+        "short_name": "31918",
+        "lat": 38.812351,
+        "lon": -77.040691,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "452",
+        "name": "Sligo Ave & Carroll Ln",
+        "short_name": "32058",
+        "lat": 38.990874,
+        "lon": -77.016311,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+https://developers.google.com/transit/gtfs/
+walkscore
+https://github.com/VikParuchuri/apartment-finder
+https://www.dataquest.io/blog/apartment-finding-slackbot/
+https://blog.dominodatalab.com/using-data-science-to-get-a-good-deal-on-a-macbook/
